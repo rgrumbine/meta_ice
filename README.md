@@ -12,6 +12,8 @@ A repository of repositories for ice work, with wiki/discussions/etc. to provide
 * [ice model verification](https://github.com/rgrumbine/ice_scoring)
 * -- including SITools, SIDFEX, Dukhovskoy
 *
+* [Northwest Passage](https://github.com/rgrumbine/toolbox/tree/main/nwp)
+* 
 * [CICE](https://github.com/CICE-Consortium/CICE)
 * [UFS CICE](https://github.com/NOAA-EMC/CICE)
 * 
